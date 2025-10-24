@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+psycopg2-binary
+python-dotenv
+google-genai
+requests
+pydantic
+chainlit
+faiss-cpu
